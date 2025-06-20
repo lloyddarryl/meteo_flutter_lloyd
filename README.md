@@ -148,7 +148,7 @@ Les données récupérées incluent :
 ### Procédure d'Installation
 ```bash
 # Cloner le repository
-git clone [URL_DU_REPOSITORY]
+git clone https://github.com/lloyddarryl/meteo_flutter_lloyd.git
 cd meteo_flutter_lloyd
 
 # Installer les dépendances
